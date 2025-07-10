@@ -1,0 +1,3 @@
+[submodule "HACAPI-HallHop"]
+	path = HACAPI-HallHop
+	url = https://github.com/varun-b-nagaraj/HACAPI-HallHop.git
