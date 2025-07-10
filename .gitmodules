@@ -11,5 +11,8 @@
 
 [submodule "HallHop-Chrome Extension"]
 	path = HallHop-Chrome Extension
-	url = https://github.com/varun-b-nagaraj/HallHop-Chrome-Extension.git
+	url = https://github.com/varun-b-nagaraj/HallHop-CE.git
 
+[submodule "HallHop OutReach"]
+	path = HallHop OutReach
+	url = https://github.com/varun-b-nagaraj/hallhop-outreach.git
