@@ -1,9 +1,6 @@
 [submodule "HACAPI-HallHop"]
 	path = HACAPI-HallHop
-	url = https://github.com/varun-b-nagaraj/HACAPI-HallHop.git
-[submodule "HACAPI-HallHop"]
-	path = HACAPI-HallHop
-	url = https://github.com/varun-b-nagaraj/HACAPI-HallHop.git
+	url = https://github.com/varun-b-nagaraj/HACAPI-HH.git
 
 [submodule "HallHop Website"]
 	path = HallHop Website
