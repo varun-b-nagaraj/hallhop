@@ -1,3 +1,15 @@
 [submodule "HACAPI-HallHop"]
 	path = HACAPI-HallHop
 	url = https://github.com/varun-b-nagaraj/HACAPI-HallHop.git
+[submodule "HACAPI-HallHop"]
+	path = HACAPI-HallHop
+	url = https://github.com/varun-b-nagaraj/HACAPI-HallHop.git
+
+[submodule "HallHop Website"]
+	path = HallHop Website
+	url = https://github.com/varun-b-nagaraj/HallHop-Website.git
+
+[submodule "HallHop-Chrome Extension"]
+	path = HallHop-Chrome Extension
+	url = https://github.com/varun-b-nagaraj/HallHop-Chrome-Extension.git
+
